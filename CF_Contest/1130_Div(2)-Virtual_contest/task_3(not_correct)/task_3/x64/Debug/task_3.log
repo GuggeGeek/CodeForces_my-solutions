@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\gugug\OneDrive\Desktop\Cpp папка\CodeForces_my-solution\CF_Contest\1130_Div(2)-Virtual_contest\task_3\main.cpp(37,15): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\gugug\OneDrive\Desktop\Cpp папка\CodeForces_my-solution\CF_Contest\1130_Div(2)-Virtual_contest\task_3\main.cpp(62,22): warning C4244: инициализация: преобразование "double" в "__int64", возможна потеря данных
+  task_3.vcxproj -> C:\Users\gugug\OneDrive\Desktop\Cpp папка\CodeForces_my-solution\CF_Contest\1130_Div(2)-Virtual_contest\task_3\x64\Debug\task_3.exe
